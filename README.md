@@ -1,10 +1,12 @@
-### Hi there 👋
-
+### Progress = Struggle + Rest
 
 - 😄 Pronouns: He/Him
+- :school: Position: Presidential Data Fellow at Western University
 - 🔭 I’m currently working on ...
   - Uncertainty in genetic data
   - Bootcamps for Data Science
+  - Forest fire location/size modelling
+  - Data vis challenges in my spare time
 - 🌱 I’m currently learning ...
   - Improving my Python skills :snake:
 
