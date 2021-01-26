@@ -1,4 +1,4 @@
-### Progress = Struggle + Rest
+### Progress = Struggle + Rest + Reflection
 
 - 😄 Pronouns: He/Him
 - :school: Position: Presidential Data Fellow at Western University
@@ -6,6 +6,7 @@
   - Uncertainty in genetic data
   - Bootcamps for Data Science
   - Forest fire location/size modelling
+  - Converting personal knowledgebank to something usful for others
   - Data vis challenges in my spare time
 - 🌱 I’m currently learning ...
   - Improving my Python skills :snake:
