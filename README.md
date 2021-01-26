@@ -1,15 +1,20 @@
 ### Progress = Struggle + Rest + Reflection
 
 - 😄 Pronouns: He/Him
-- :school: Position: Presidential Data Fellow at Western University
+- :man_teacher: Position: Presidential Data Fellow at Western University
 - 🔭 I’m currently working on ...
-  - Uncertainty in genetic data
-  - Bootcamps for Data Science
-  - Forest fire location/size modelling
-  - Converting personal knowledgebank to something usful for others
-  - Data vis challenges in my spare time
+  - :dna: Uncertainty in genetic data
+  - :chart_with_upwards_trend: Bootcamps for Data Science
+  - :fire: Forest fire location/size modelling
+  - :books: Converting personal knowledgebank to something useful for others
+  - :bar_chart: Data vis challenges in my spare time
 - 🌱 I’m currently learning ...
-  - Improving my Python skills :snake:
+  - :snake: Python 
+  - :penguin: Linux/bash scripting :penguin:
+- :sunrise_over_mountains: Hobbies:
+  - :tent: Camping/hiking/biking/running/skating
+  - :banjo: Banjo/mandolin/ukulele
+  - :blue_book: Non-fiction/Sci-Fi
 
 <!--
 **DBecker7/DBecker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
