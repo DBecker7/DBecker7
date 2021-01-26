@@ -2,17 +2,20 @@
 
 - 😄 Pronouns: He/Him
 - :man_teacher: Position: Presidential Data Fellow at Western University
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
   - :dna: Uncertainty in genetic data
   - :chart_with_upwards_trend: Bootcamps for Data Science
   - :fire: Forest fire location/size modelling
   - :books: Converting personal knowledgebank to something useful for others
   - :bar_chart: Data vis challenges in my spare time
-- 🌱 I’m currently learning ...
+- :man_student: Skills:
+  - :package: R/RMarkdown/Shiny/JAGS/Tidyverse/Base R/RGIS
+  - :hammer: statistics/data science/spatial/random effects/joint models
+- 🌱 I’m currently learning:
   - :snake: Python 
   - :penguin: Linux/bash scripting :penguin:
 - :sunrise_over_mountains: Hobbies:
-  - :tent: Camping/hiking/biking/running/skating
+  - :tent: Camping/hiking/biking/running/skating/climbing
   - :banjo: Banjo/mandolin/ukulele
   - :blue_book: Non-fiction/Sci-Fi/Poetry
 
