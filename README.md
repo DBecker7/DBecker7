@@ -10,10 +10,10 @@
   - :bar_chart: Data vis challenges in my spare time
 - :man_student: Skills:
   - :package: R/RMarkdown/Shiny/JAGS/Tidyverse/Base R/RGIS
-  - :hammer: statistics/data science/spatial/random effects/joint models
+  - :hammer: statistics/data science/spatial/random effects/joint models/Bayesian
 - 🌱 I’m currently learning:
   - :snake: Python 
-  - :penguin: Linux/bash scripting :penguin:
+  - :penguin: Linux/bash scripting
 - :sunrise_over_mountains: Hobbies:
   - :tent: Camping/hiking/biking/running/skating/climbing
   - :banjo: Banjo/mandolin/ukulele
