@@ -14,7 +14,7 @@
 - :sunrise_over_mountains: Hobbies:
   - :tent: Camping/hiking/biking/running/skating
   - :banjo: Banjo/mandolin/ukulele
-  - :blue_book: Non-fiction/Sci-Fi
+  - :blue_book: Non-fiction/Sci-Fi/Poetry
 
 <!--
 **DBecker7/DBecker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
