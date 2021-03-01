@@ -1,5 +1,13 @@
 # Some Teaching Data Sets and Their Uses 
 
+## Repositories
+
+### Princeton
+
+https://data.princeton.edu/wws509/datasets
+
+## csv files
+
 ### Birthweight_reduced_R.csv
 
 Small, simple data set.
