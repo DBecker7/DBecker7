@@ -1,4 +1,4 @@
-# Some Teaching Data Sets and Their Uses 
+# Some Teaching Data Sets and Their Uses
 
 ## Repositories
 
@@ -14,6 +14,8 @@ Small, simple data set.
 
 - Response: Birthweight (continuous) or LowBirthWeight (binary)
 - Predictors: Mixed types
+
+Attribution: https://www.sheffield.ac.uk/mash/statistics/datasets
 
 
 ### BL-Flickr-Images-Book.csv
@@ -36,7 +38,7 @@ Diabetes outcomes (attribution unknown, which is bad).
 
 Misspellings of my name (Devan) on midterm and final exams. Good for data cleaning, simple visualizations.
 
-- Reponse: Spelling of my first name 
+- Reponse: Spelling of my first name
 - Predictors: NA
 
 
