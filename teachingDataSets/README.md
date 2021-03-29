@@ -28,11 +28,26 @@ Messy data, good for teaching cleaning
 
 ### diabetes.csv
 
-Diabetes outcomes (attribution unknown, which is bad).
+Diabetes outcomes.
 
-- Reponse: Binary indicator for diabetes status
+- Reponse: Binary indicator for diabetes status (1 = has diabetes)
 - Predictors: All continuous
 
+Dictionary
+
+| Name | Type | Description |
+| --- | --- | --- |
+| Pregnancies | Count | Number of times pregnant |
+| Glucose | Cont. | Plasma glucose concentration a 2 hours in an oral glucose tolerance test |
+| BloodPressure | Cont. | Diastolic blood pressure (mm Hg) |
+| SkinThickness  | Cont. | Triceps skin fold thickness (mm) |
+| Insulin | Cont. | 2-Hour serum insulin (mu U/ml) |
+| BMI | Cont. | Body mass index (weight in kg/(height in m)^2) |
+| DiabetesPedigree | Cont. | Diabetes pedigree function |
+| Age | Cont. | Age (years) |
+| Outcome | Binary | Class variable (0 or 1) 268 of 768 are 1, the others are 0 |
+
+Attribution: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
 ### Misspell.csv
 
