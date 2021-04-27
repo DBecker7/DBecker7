@@ -1,4 +1,4 @@
-### Progress = Struggle + Rest + Reflection
+### Progress = Effort + Rest + Reflection
 
 - 😄 Pronouns: He/Him
 - :man_teacher: Position: Presidential Data Fellow at Western University
