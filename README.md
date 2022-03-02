@@ -1,13 +1,14 @@
 ### Progress = Effort + Rest + Reflection
 
 - 😄 Pronouns: He/Him
-- :man_teacher: Position: Presidential Data Fellow at Western University
+- :man_teacher: Position: Biologist at Public Health Agency of Canada
 - 🔭 I’m currently working on:
   - :dna: Uncertainty in genetic data
-  - :chart_with_upwards_trend: Bootcamps for Data Science
   - :fire: Forest fire location/size modelling
   - :books: Converting personal knowledgebank to something useful for others
-  - :bar_chart: Data vis challenges in my spare time
+  -  🌧  Effect of stormwater on SARS-CoV-2 viral concentation in wastewater
+  - 📊 Proportion of variants of concern in wastewater
+  - 🚽 Forecasting COVID-19 case counts using, you guessed it, wastewater
 - :man_student: Skills:
   - :package: R/RMarkdown/Shiny/JAGS/Tidyverse/Base R/RGIS
   - :hammer: statistics/data science/spatial/random effects/joint models/Bayesian
