@@ -1,14 +1,13 @@
 ### Progress = Effort + Rest + Reflection
 
 - 😄 Pronouns: He/Him
-- :man_teacher: Position: Biologist at Public Health Agency of Canada
+- :man_teacher: Position: Assistant Professor, Wilfrid Laurier University
+- 📫: dbecker@wlu.ca
 - 🔭 I’m currently working on:
-  - :dna: Uncertainty in genetic data
   - :fire: Forest fire location/size modelling
   - :books: Converting personal knowledgebank to something useful for others
-  -  🌧  Effect of stormwater on SARS-CoV-2 viral concentation in wastewater
   - 📊 Proportion of variants of concern in wastewater
-  - 🚽 Forecasting COVID-19 case counts using, you guessed it, wastewater
+    - Over space and over time and over both
 - :man_student: Skills:
   - :package: R/RMarkdown/Shiny/JAGS/Tidyverse/Base R/RGIS
   - :hammer: statistics/data science/spatial/random effects/joint models/Bayesian
