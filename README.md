@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 - :man_teacher: Position: Assistant Professor, Wilfrid Laurier University
-- 📫: dbecker@wlu.ca
+  - 📫 dbecker@wlu.ca
 - 🔭 I’m currently working on:
   - :fire: Forest fire location/size modelling
   - :books: Converting personal knowledgebank to something useful for others
