@@ -1,4 +1,4 @@
-### Progress = Effort + Rest + Reflection
+### Math is true and beautiful. Data are messy and beautiful. I'm here for the beauty, baby!
 
 - 😄 Pronouns: He/Him
 - :man_teacher: Position: Assistant Professor, Wilfrid Laurier University
