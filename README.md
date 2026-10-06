@@ -4,19 +4,10 @@
 - :man_teacher: Position: Assistant Professor, Wilfrid Laurier University
 - 🔭 I’m currently working on:
   - :fire: Forest fire location/size modelling
-  - :books: Converting personal knowledgebank to something useful for others
   - 📊 Proportion of variants of concern in wastewater
-    - Over space and over time and over both
-- :man_student: Skills:
-  - :package: R/RMarkdown/Shiny/JAGS/Tidyverse/Base R/RGIS
-  - :hammer: statistics/data science/spatial/random effects/joint models/Bayesian
-- 🌱 I’m currently learning:
-  - :snake: Python 
-  - :penguin: Linux/bash scripting
-- :sunrise_over_mountains: Hobbies:
-  - :tent: Camping/hiking/biking/running/skating/climbing
-  - :banjo: Banjo/mandolin/ukulele
-  - :blue_book: Non-fiction/sci-fi/poetry
+    - Over space, time, and both
+  - :soccer: Sports analytics
+  - :capital_abcd: Model-based clustering based on matrix factorization
 
 <!--
 **DBecker7/DBecker7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
